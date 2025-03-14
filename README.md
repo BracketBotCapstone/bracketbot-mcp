@@ -14,7 +14,7 @@ This project creates an MCP (Model Context Protocol) server that allows AI agent
 
 ## Prerequisites
 
-- Python 3.12+
+- Python 3.10+
 - UV (Python package manager)
 - Multiple running robot control FastAPI servers (as provided in the example)
 
